@@ -38,3 +38,4 @@ Jupyter notebook: Jupyter Notebook（此前被称为 IPython notebook）是一�
 
 #### pandas使用
 參考：http://www.codingpy.com/article/use-pandas-for-data-analysis-one/
+http://www.codingpy.com/article/a-quick-intro-to-pandas/
